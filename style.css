@@ -1,0 +1,18 @@
+.sanppham  {
+    width: 2000px;
+    display: flex;
+}
+.anh {
+    float: left;
+}
+.mota {
+    float: left;
+    padding-left: 25px;
+}
+.comment{
+
+    float: left;
+}
+.map iframe{
+    margin-left: 10%;
+}
